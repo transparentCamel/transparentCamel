@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @transparentCamel
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning React.js, Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arvydas.peciulis23@gmail.com
 
