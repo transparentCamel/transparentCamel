@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @transparentCamel
+- 👋 Hi, I’m Arvydas
 - 🖥️ Front-End development
 - 💼  https://transparentcamel.github.io/portfolio/
 - 📫 How to reach me arvydas.peciulis23@gmail.com
