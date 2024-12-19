@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @transparentCamel
-- 👀 I’m interested in Front-End development
-- 💞️ I’m looking to collaborate on ...
+- 🖥️ Front-End development
+- 💼  https://transparentcamel.github.io/portfolio/
 - 📫 How to reach me arvydas.peciulis23@gmail.com
 
 <!---
